@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptTest", "EncryptTest\EncryptTest.csproj", "{812DC70D-AA5E-4435-A5E5-F29B501B31C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EncryptTest", "EncryptTest\EncryptTest.csproj", "{812DC70D-AA5E-4435-A5E5-F29B501B31C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsPossibleEncryption", "IsPossibleEncryption\IsPossibleEncryption.csproj", "{F8646030-B3B0-4C0F-926A-4C55314BFD6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CandidatesTests", "CandidatesTests\CandidatesTests.csproj", "{FDA0BC2A-D005-41F9-90E2-7A37C0517785}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{812DC70D-AA5E-4435-A5E5-F29B501B31C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{812DC70D-AA5E-4435-A5E5-F29B501B31C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{812DC70D-AA5E-4435-A5E5-F29B501B31C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8646030-B3B0-4C0F-926A-4C55314BFD6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8646030-B3B0-4C0F-926A-4C55314BFD6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8646030-B3B0-4C0F-926A-4C55314BFD6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8646030-B3B0-4C0F-926A-4C55314BFD6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDA0BC2A-D005-41F9-90E2-7A37C0517785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA0BC2A-D005-41F9-90E2-7A37C0517785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA0BC2A-D005-41F9-90E2-7A37C0517785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA0BC2A-D005-41F9-90E2-7A37C0517785}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
